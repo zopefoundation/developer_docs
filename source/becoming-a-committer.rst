@@ -7,7 +7,7 @@ Applying for Committer Status
 -----------------------------
 
 1. Print, fill out and sign the
-   :download:`Zope Committer Agreement <./ZopeFoundation_Committer_Agreement.pdf>`.
+   :download:`Zope Committer Agreement <./Zope_Foundation_Committer_Agreement.pdf>`.
 
 2. Submit the agreement to the Zope Foundation via email at
    contributor-admin@zope.org).
