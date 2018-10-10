@@ -1,5 +1,8 @@
 bin/
 build/
 develop-eggs/
+lib/
+lib64
 eggs/
 parts/
+pyvenv.cfg
